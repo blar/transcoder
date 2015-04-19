@@ -1,0 +1,27 @@
+{
+    "name": "blar/transcoder",
+    "description": "Transcoder for PHP",
+    "type": "library",
+    "keywords": ["php", "transcoder"],
+    "homepage": "https://github.com/blar/transcoder/",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Andreas Treichel",
+            "email": "gmblar+github@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "support": {
+        "source": "https://github.com/blar/json/",
+        "issues": "https://github.com/blar/json/issues",
+        "wiki": "https://github.com/blar/json/wiki"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blar\\Transcoder\\": "lib/Blar/Transcoder/"
+        }
+    }
+}
