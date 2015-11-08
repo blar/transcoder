@@ -12,12 +12,15 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "blar/php-coveralls": "dev-master"
     },
     "support": {
-        "source": "https://github.com/blar/json/",
-        "issues": "https://github.com/blar/json/issues",
-        "wiki": "https://github.com/blar/json/wiki"
+        "source": "https://github.com/blar/transcoder/",
+        "issues": "https://github.com/blar/transcoder/issues",
+        "wiki": "https://github.com/blar/transcoder/wiki"
     },
     "autoload": {
         "psr-4": {
