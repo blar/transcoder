@@ -17,6 +17,6 @@ interface Encoder {
      * @param mixed $decoded
      * @return string
      */
-    public function encode($decoded);
+    public function encode($decoded): string;
 
 }
