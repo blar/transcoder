@@ -9,6 +9,10 @@
 
 Einfache Interfaces für Transcoder, Encoder und Decoder.
 
+## Dokumentation
+
+https://blar.github.io/transcoder/
+
 ## Installation
 
 ### Abhängigkeiten
