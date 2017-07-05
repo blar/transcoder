@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Blar\\Transcoder\\": "lib/Blar/Transcoder/"
+            "Blar\\Transcoder\\": "src/Blar/Transcoder/"
         }
     }
 }
