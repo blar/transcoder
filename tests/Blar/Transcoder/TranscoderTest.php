@@ -6,8 +6,13 @@
 
 namespace Blar\Transcoder;
 
-use PHPUnit_Framework_TestCase as TestCase;
+use PHPUnit\Framework\TestCase as TestCase;
 
+/**
+ * Class TranscoderTest
+ *
+ * @package Blar\Transcoder
+ */
 class TranscoderTest extends TestCase {
 
     public function testInterface() {
