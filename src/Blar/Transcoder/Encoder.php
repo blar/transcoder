@@ -11,10 +11,14 @@ namespace Blar\Transcoder;
  *
  * @package Blar\Transcoder
  */
-interface Encoder {
+interface Encoder
+{
 
     /**
+     * Encode value to string.
+     * 
      * @param mixed $decoded
+     *
      * @return string
      */
     public function encode($decoded): string;

@@ -11,6 +11,7 @@ namespace Blar\Transcoder;
  *
  * @package Blar\Transcoder
  */
-interface Transcoder extends Encoder, Decoder {
+interface Transcoder extends Encoder, Decoder
+{
 
 }

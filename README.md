@@ -22,3 +22,7 @@ Einfache Interfaces für Transcoder, Encoder und Decoder.
 ### Installation per Git
 
     $ git clone https://github.com/blar/transcoder.git
+
+## Tests
+
+    $ composer test
